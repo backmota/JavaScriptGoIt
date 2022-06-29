@@ -66,3 +66,12 @@ El códgio base sería el siguiente:
   </body>
 </html>
 ```
+
+## Ejercicios de clase
+
+La información del código visto en clase lo puedes encontrar comentado en el archivo [`script.js`](js/scripts.js) 
+
+## Fundamentos de la sintaxis
+
+
+
