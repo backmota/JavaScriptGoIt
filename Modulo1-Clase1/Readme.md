@@ -13,7 +13,7 @@
 - Líneas
 - Operadores lógicos
 
-## Desarrollo 
+## Creando un archivo JS en la terminal o git bash 
 
 1. Creando un archivo JavaScript utilizando la Terminal(Linux o Mac) o con GitBash.
 
@@ -36,3 +36,6 @@ const hello = "Hola Mundo";
 console.log(hello);
 ```
 
+Para guardar la información será necesario pulsar la tecla *esc* seguido por la tecla *:* y agregaremos una x, despues pulsaremos enter.
+
+![save to vim](./assets/vim.png)
