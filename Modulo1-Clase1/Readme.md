@@ -69,7 +69,7 @@ El códgio base sería el siguiente:
 
 ## Ejercicios de clase
 
-La información del código visto en clase lo puedes encontrar comentado en el archivo [`script.js`](js/scripts.js) 
+La información del código visto en clase lo puedes encontrar comentado en el archivo [`script.js`](js/script.js) 
 
 ## Fundamentos de la sintaxis
 
