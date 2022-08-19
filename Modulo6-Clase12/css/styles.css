@@ -1,0 +1,20 @@
+body {
+  margin: 24px;
+}
+
+.is-hidden {
+  display: none;
+}
+
+.big{
+  font-size: 50px;
+}
+
+.red{
+  color: red;
+  text-align: right;
+}
+
+.yellow{
+  color: yellow;
+}
