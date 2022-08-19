@@ -1,0 +1,20 @@
+{
+	"name": "Thomas",
+	"age": 33,
+	"eyecolor": "brown",
+	"isHappy": true,
+	"cars": [{
+		"model":"Chevy",
+		"age": 2022,
+		"fuel": "premium",
+		},{
+		"model":"Honda",
+		"age": 2021,
+		"fuel": "regular",
+		}],
+	"favoriteBook":{  
+	"title": "La cancion de aquiles",
+	"author": "Aquiles",
+	"rating": 8.38
+	}
+}
